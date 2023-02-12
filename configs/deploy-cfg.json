@@ -1,0 +1,12 @@
+{
+  "x3builtin": {
+    "modules": [
+      {
+        "name": "x3builtin",
+        "path": "artifacts/x3builtin.wasm",
+        "logger_enabled": true,
+        "mem_page_count": 100
+      }
+    ]
+  }
+}

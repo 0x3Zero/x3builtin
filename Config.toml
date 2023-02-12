@@ -1,0 +1,6 @@
+modules_dir = "artifacts/"
+
+[[module]]
+    name = "x3builtin"
+    mem_pages_count = 100
+    logger_enabled = true

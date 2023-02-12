@@ -1,0 +1,8 @@
+module X3Builtin declares *
+
+service X3Builtin("x3builtin"):
+  is_it_boolean(n: string) -> bool
+  is_it_integer(n: string) -> bool
+  str_to_i32(n: string) -> i32
+  str_to_u32(n: string) -> u32
+  str_to_u64(n: string) -> u64
